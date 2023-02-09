@@ -1,5 +1,7 @@
 window.onload = function() {
 
+    // to send request when write text
+
     let text = document.getElementById('text');
 
     text.oninput = function() {
